@@ -1,4 +1,3 @@
-
 # Include the math function import math.
 import math
 
