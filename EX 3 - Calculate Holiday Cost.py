@@ -1,4 +1,3 @@
-
 import time
 
 print("Welcome to Africa Airlines")
